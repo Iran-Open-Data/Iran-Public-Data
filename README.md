@@ -4,9 +4,22 @@
 
 ## Central Bank of Iran
 
-### 1. National Accounts
+### 1. Economic Statistics
 
-### 2. Selected Economic Indicators
+#### 1. Price Indices
+
+1. [CPI](https://www.cbi.ir/simplelist/1611.aspx)
+1. [PPI](https://www.cbi.ir/simplelist/1890.aspx)
+1. [XMPI](https://www.cbi.ir/simplelist/1595.aspx)
+1. [Home Rent Index](https://www.cbi.ir/simplelist/8009.aspx)
+1. [Prices and Indices Monthly Report](https://www.cbi.ir/simplelist/1599.aspx)
+1. [Price Time Series](https://www.cbi.ir/simplelist/10807.aspx)
+
+#### 2. Household Budget Survey
+
+### 2. National Accounts
+
+### 3. Selected Economic Indicators
 
 1. [Monetary and Credit Aggregates](https://www.cbi.ir/category/2692.aspx)
 1. [Balance of Payment](https://www.cbi.ir/category/2693.aspx)
